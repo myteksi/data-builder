@@ -1,1 +1,4 @@
-# data-builder
+# Data Builder
+
+Docker image for running MySQL scripts
+
